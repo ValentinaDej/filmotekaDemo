@@ -1,0 +1,9 @@
+@import '~node_modules/modern-normalize/modern-normalize.css';
+
+// прибрати
+.film-card {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  flex-direction: row;
+}
